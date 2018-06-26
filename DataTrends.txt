@@ -1,0 +1,5 @@
+Observable Trends:
+1)  BBC is only outlet with a postive compound sentiment score. This suggests that domestic US news may be comparatively negative. 
+2)  FOX News is the most negative despite generally approving of the current political regime.
+    This may indicate that FOX News tends to use fear/negativity in their programming.
+3)  The mode of the compound score for each outlet is 0. A large portion of the tweets do not have use polizing language.
